@@ -3,3 +3,4 @@ wp-config.php
 .htaccess
 composer.json
 composer.phar
+/vendor
