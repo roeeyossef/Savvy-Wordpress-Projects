@@ -4,4 +4,7 @@ wp-config.php
 composer.json
 composer.phar
 composer.lock
+Gruntfile.js
+package.json
 /vendor
+/node_modules
