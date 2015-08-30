@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2015-08-21 18:36:12
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.28
+WORDPRESS:	4.3
+PHP INFO:	5.4.4 | SAPI: apache2handler
+SERVER:		Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8zd DAV/2 PHP/5.4.4 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (40M default) 
+MEMORY STACK: 16.5MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP (query limit - 100)
+MYSQLDUMP:    Not Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:12 | filtered:0 | create:12 
+FILTERED: [] 
+SQL CREATED: 20150821_wp_git_composer_55d76f51b730b5546150821183457_database.sql 
+SQL FILE SIZE: 240.33KB 
+SQL FILE TIME: 2015-08-21 18:36:12 
+SQL RUNTIME: 0.08 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Users/roeeyossef/Sites/wp_git_composer/wp 
+ARCHIVE FILE: 20150821_wp_git_composer_55d76f51b730b5546150821183457_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	46.15MB 
+STATS:	Dirs 255 | Files 2,135 
+SQL ADDED: 20150821_wp_git_composer_55d76f51b730b5546150821183457_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2390
+    [filename] => /Users/roeeyossef/Sites/wp_git_composer/wp/wp-snapshots/tmp/20150821_wp_git_composer_55d76f51b730b5546150821183457_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 20.06MB 
+ARCHIVE RUNTIME: 6.32 sec. 
+MEMORY STACK: 17.5MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/Users/roeeyossef/Sites/wp_git_composer/wp/wp-snapshots/tmp/20150821_wp_git_composer_55d76f51b730b5546150821183457_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 240.33KB 
+Installer File: 317.81KB 
+Archive File: 20.06MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 6.97 sec.
+PEAK PHP MEMORY USED: 20MB
+DONE PROCESSING => 20150821_wp_git_composer 2015-08-21 18:36:19
+ 
